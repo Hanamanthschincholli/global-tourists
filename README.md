@@ -50,7 +50,7 @@ These challenges were opportunities for growth and learning, ultimately resultin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HarshArora-1205/Globetrotters.git
+   git clone (https://github.com/Hanamanthschincholli/global-tourists)
    ```
 2. Navigate to the project directory:
    ```bash
